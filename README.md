@@ -50,11 +50,12 @@ Most Video Counts: Entertainment, Gaming, People & Blogs
 
 📊 We visualized rankings based on Subscribers, Video Views, and Video Count for different categories using Pie Charts.
 
-<img src="https://github.com/user-attachments/assets/1669ddfc-eed5-4532-9afe-1e5449cd0590" width="300">
+<img src="https://github.com/user-attachments/assets/1669ddfc-eed5-4532-9afe-1e5449cd0590" width="380">
 
 <img src="https://github.com/user-attachments/assets/a00022b8-f3f2-4fcb-b855-46b3143eef40" width="300">
 
 <img src="https://github.com/user-attachments/assets/13c60d5c-fdbc-4062-9faa-f67728bee280" width="300">
+
 
 
 
