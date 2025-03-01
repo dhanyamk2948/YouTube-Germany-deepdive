@@ -1,5 +1,7 @@
 YouTube Channel Analysis - Germany (2025)
 
+Dateset Link : https://www.kaggle.com/datasets/samithsachidanandan/1000-most-subscribed-youtube-channels-in-germany
+
 📌 About the Dataset
 
 This dataset contains details of the Top 1000 most subscribed YouTube channels in Germany as of February 13, 2025.
