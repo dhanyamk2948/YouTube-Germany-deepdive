@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/bc47ab87-d736-442f-8d6d-4d3d359c8491)YouTube Channel Analysis - Germany (2025)
+YouTube Channel Analysis - Germany (2025)
+
+This dataset contains details of the Top 1000 most subscribed YouTube channels in Germany as of February 13, 2025.
 
 Dateset Link : https://www.kaggle.com/datasets/samithsachidanandan/1000-most-subscribed-youtube-channels-in-germany
 
@@ -48,11 +50,14 @@ Most Video Counts: Entertainment, Gaming, People & Blogs
 
 📊 We visualized rankings based on Subscribers, Video Views, and Video Count for different categories using Pie Charts.
 
-![image](https://github.com/user-attachments/assets/625228a7-5fe6-4eff-82f9-87ad2f794ddf)
+![image](https://github.com/user-attachments/assets/1669ddfc-eed5-4532-9afe-1e5449cd0590)
+<img src="your_image.png" width="300">
 
 ![image](https://github.com/user-attachments/assets/a00022b8-f3f2-4fcb-b855-46b3143eef40)
+<img src="your_image.png" width="300">
 
 ![image](https://github.com/user-attachments/assets/13c60d5c-fdbc-4062-9faa-f67728bee280)
+<img src="your_image.png" width="300">
 
 
 
